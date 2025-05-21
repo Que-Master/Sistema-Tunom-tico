@@ -44,8 +44,3 @@ El diseño de **Tunomático** se enfoca en la escalabilidad, modularidad y flexi
 Además, el enfoque en desacoplamiento asegura que la **interfaz**, **gestión de turnos** y **sincronización hospitalaria** puedan evolucionar independientemente, facilitando la integración con otros sistemas.  
 
 Tunomático está listo para ser desplegado y mejorado con base en futuras necesidades hospitalarias. 🚀  
-
----
-
-## 📜 **Licencia**
-Tunomático es un proyecto de código abierto bajo la licencia **MIT**.
