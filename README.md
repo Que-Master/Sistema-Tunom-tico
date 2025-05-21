@@ -8,7 +8,8 @@ El objetivo principal es ofrecer a **pacientes** y **administradores** una exper
 ---
 
 ## 🎯 **Diagrama de Caso de Uso**
-![Diagrama de Caso de Uso](AQUÍ_DEBES_AGREGAR_LA_RUTA_DE_LA_IMAGEN_DEL_DIAGRAMA_DE_CASO_DE_USO)
+![Diagrama de Caso de Uso]
+![Image](https://github.com/user-attachments/assets/9f8b766e-5406-4fbd-bf7f-884ce21b62f3)
 
 ### 🔹 **Justificación de Relaciones**
 ✅ **Relaciones `<<include>>`** → Se usan para casos que dependen de otros procesos clave (ejemplo: verificar disponibilidad antes de seleccionar fecha y hora).  
