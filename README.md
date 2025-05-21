@@ -8,7 +8,6 @@ El objetivo principal es ofrecer a **pacientes** y **administradores** una exper
 ---
 
 ## 🎯 **Diagrama de Caso de Uso**
-![Diagrama de Caso de Uso]
 ![Image](https://github.com/user-attachments/assets/9f8b766e-5406-4fbd-bf7f-884ce21b62f3)
 
 ### 🔹 **Justificación de Relaciones**
@@ -19,7 +18,7 @@ El objetivo principal es ofrecer a **pacientes** y **administradores** una exper
 ---
 
 ## 📜 **Diagrama de Clases**
-![Diagrama de Clases](AQUÍ_DEBES_AGREGAR_LA_RUTA_DE_LA_IMAGEN_DEL_DIAGRAMA_DE_CLASES)
+![Image](https://github.com/user-attachments/assets/d4834d18-9621-4596-ac2d-3c93424f2f19)
 
 ### 🔹 **Justificación de Patrones de Diseño**
 ✅ **`Singleton` (ConfiguraciónSistema)** → Se asegura que **solo exista una instancia** de la configuración global del sistema.  
@@ -30,7 +29,7 @@ El objetivo principal es ofrecer a **pacientes** y **administradores** una exper
 ---
 
 ## 🏗 **Diagrama de Implementación**
-![Diagrama de Implementación]https://github.com/Que-Master/Sistema-Tunom-tico/issues/1#issue-3078676725
+![Image](https://github.com/user-attachments/assets/529fc749-4943-4dd8-a3f5-78d8f894dddf)
 
 ### 🔹 **Decisiones Técnicas**
 ✅ **Nodos físicos bien estructurados**, asegurando separación de responsabilidades entre servidores y estaciones cliente.  
