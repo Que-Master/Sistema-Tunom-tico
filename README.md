@@ -18,7 +18,7 @@ El objetivo principal es ofrecer a **pacientes** y **administradores** una exper
 ---
 
 ## 📜 **Diagrama de Clases**
-![Image](https://github.com/user-attachments/assets/d4834d18-9621-4596-ac2d-3c93424f2f19)
+![Image](https://github.com/user-attachments/assets/03381c7a-836f-4933-9b56-b6afccc411b9)
 
 ### 🔹 **Justificación de Patrones de Diseño**
 ✅ **`Singleton` (ConfiguraciónSistema)** → Se asegura que **solo exista una instancia** de la configuración global del sistema.  
